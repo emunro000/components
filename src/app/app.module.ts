@@ -31,6 +31,7 @@ import { NumberGeneratorComponent } from './number-generator/number-generator.co
 import { ChsAdditionComponent } from './chs-addition/chs-addition.component';
 import { CebAdditionComponent } from './ceb-addition/cebladdition.component';
 import { CajNumberComponent } from './caj-number/caj-number.component';
+import { EmmSubtractionComponent } from './emm-subtraction/emm-subtraction.component';
 
 @NgModule({
   declarations: [
@@ -46,6 +47,7 @@ import { CajNumberComponent } from './caj-number/caj-number.component';
     ChsAdditionComponent,
     CebAdditionComponent,
     CajNumberComponent,
+    EmmSubtractionComponent,
   ],
 
   imports: [
